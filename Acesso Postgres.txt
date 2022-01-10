@@ -1,0 +1,10 @@
+postgres://
+User -> phtppsvwettxpw
+:
+Pass -> 044975641b6aa07eaf1146393fed4ddff9fbd91c2d1997903ebf7aedebec6017
+@
+Connection(Host) -> ec2-52-200-188-218.compute-1.amazonaws.com
+:
+5432
+/
+Maintenance database -> d3ds6jnu96pnvk
